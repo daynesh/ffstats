@@ -1,0 +1,22 @@
+#mainContent
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:700px;
+}
+#banner
+{
+	width:700px;
+	height:250px;
+}
+#searchLabel
+{
+	display:block;
+}
+#searchSection
+{
+	height:100px;
+}
+#statsSection
+{
+}
